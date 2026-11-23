@@ -125,11 +125,11 @@ export default function Contact() {
               <div>
                 <p className="text-sm" style={{ color: "var(--text-muted)" }}>Email</p>
                 <a
-                  href="mailto:gustavoatanasiosantos@gmail.com"
+                  href="mailto:santosdev007@gmail.com"
                   className="font-medium transition-colors"
                   style={{ color: "var(--text-primary)" }}
                 >
-                  gustavoatanasiosantos@gmail.com
+                  santosdev007@gmail.com
                 </a>
               </div>
             </div>
